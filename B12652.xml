@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Declaration of the Queenes Maiesties most gratious dealing with William Marsden, and Robert Anderton, seminarie priests, sithens the time of their iust condemnation, being conuicted according to the lawes, and of their obstinacie in refusing to acknowledge their duetie and alleageance to Her Maiestie, 1586</title>
+         </titleStmt>
+         <extent>Approx. 9KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B12652</idno><idno type="EEBO-CITATION">23525313_26708</idno>
+  <idno type="VID">26708</idno>
+  <idno type="EEBO-PROQUEST">2264219482</idno>
+  <idno type="STC">STC 8157.3</idno>
+  <idno type="STC">ESTC S115380</idno>
+  
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B12652)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 26708)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 565:31 or 1813:23)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Declaration of the Queenes Maiesties most gratious dealing with William Marsden, and Robert Anderton, seminarie priests, sithens the time of their iust condemnation, being conuicted according to the lawes, and of their obstinacie in refusing to acknowledge their duetie and alleageance to Her Maiestie, 1586</title>
+                  <author>England and Wales. Sovereign (1558-1603 : Elizabeth I)</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>By Cristopher Barker ...,</publisher>
+                  <pubPlace>Imprinted at London :</pubPlace>
+                  <date>[ca. 1618]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Date of imprint suggested by STC (2nd ed.).</note>
+                  <note>This item was formerly STC 8156 and can be found as such at reel 565:31.</note>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Marsden, W. E. --  (William Edward)</term>
+               <term type="personal_name">Anderton, Robert.</term>
+               <term type="topical_term">Jesuits --  England --  History --  16th century.</term>
+               <term type="geographic_name">Great Britain --  History --  Elizabeth, 1558-1603.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-01 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-03 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-03 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="proclamation">
+            <pb facs="tcp:26708:1"/>
+            <head>A declaration of the Queenes Maiesties most gratious dealing with William Marsden, and Robert Anderton, Seminarie Priests, sithens the time of their iust condemnation, being conuicted according to the Lawes, and of their obstinacie in refusing to acknowledge their duetie and alleageance to her Maiestie. 1586.</head>
+            <p>
+               <seg rend="decorInit">W</seg>Hereas at the last Session of Parliament among other good and necessary Lawes and ordinan<g ref="char:EOLhyphen"/>ces established for the maintenance, continuance and preseruation of her Maiesties most happy and quiet gouernment, and for the preuenting and auoiding of Treasons and practises traite<g ref="char:EOLhyphen"/>rously attempted by certaine of her Maiesties euill-affected Subiects, being Iesuites and Se<g ref="char:EOLhyphen"/>minarie Priests, made and created at Rome and Rhemes, and other places beyond the Seas, who at the instigation of the Pope and others, fauouring his pretended tyrannous authoritie ouer the Crowne of England, and enuying the happie and blessed estate of her Maiesties saide gouernment, came dayly into the Realme, to peruert and seduce her Maiesties good Subiects vnder colour of Religion, to draw them from their due and naturall obedience towards her Ma<g ref="char:EOLhyphen"/>iestie &amp; her Crowne, &amp; to prepare their minds and bodies to assist such forraine inuasion, as was certainely discouered to be intended by the said Pope &amp; his adherents, as by sundr<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e effects and proofes hath manifestly appeared, namely by the late Rebellion in the North, the inuasion attempted in Ireland, and by the discouerie of sundrie late plottes and purposes of Treason, aswell against her Maiesties sacred person, as against the common quiet of the Realme: There was for these considerations an Act made against the said Iesuites and Seminarie Priests, by the which their accesse into the Realme for the like seditious and traiterous purposes was prohibited, and or<g ref="char:EOLhyphen"/>dered to be punished as in cases of Treason: Contrary to which Act of Parliament, one William Marsden, and Robert Anderton, Seminarie Priests, being reconciled at Doway in Artois, by a Iesuite called father Columbine, and made Priests by the Cardinall of Guyse at Rhemes, arriuing secretly out of France, lately at the Isle of Wight, where they were apprehended, haue confessed their purpose of comming into the Realme, to haue bene to win soules, (as they terme it) be<g ref="char:EOLhyphen"/>ing in effect, (as is before mentioned) to perswade her Maiesties Subiects vnder colour of maintenance of Popery, to re<g ref="char:EOLhyphen"/>bellion. For the which, they hauing bene by the due and orderly course of her Maiesties Lawes, tryed and conuicted at the last Assyses holden at Winchester in the Countie of Southhampton, vpon the statute aforesaid, were neuerthelesse by the Iudges of that Circuite (knowing the mercifull minde and gracious disposition of the Queenes Maiestie towards all her Subiects) conferred withall concerning their meaning towards her Maiesties person and the Realme, at which time they pretended in wordes, and exterior shew to acknowledge her Maiestie to be rightfull Queene of this Realme, and to vowe and protest, that they would at all times aduenture their liues in defence of her Maiestie and her Realmes, against the Pope, or any forraine power whatsoeuer, that should attempt to inuade the Realme with force, and that they would not meddle or perswade with any in matter of Religion, but onely keepe their owne consciences to themselues: Where<g ref="char:EOLhyphen"/>vpon they were stayed from their execution, her Maiestie minding nothing lesse, then that any of her Subiects, though disagreeing from her in Religion, should die for the same, as by them and their companions hath bene most falsely and slan<g ref="char:EOLhyphen"/>derously published and affirmed. Vpon report whereof made by the said Iudges to the Lords and others of her Maiesties most honorable Priuie Councill, they following the milde and temperate course of her Maiesties gouernment, caused the said Marsden and Anderton to be stayed from execution, and to be remooued from Winchester to London, where they were further conferred withall, and examined concerning their obedience and duetie towardes her Maiestie for Ciuill causes, onely to prooue whether they would remaine constant in their protestations in that behalfe made to the Iudges at their arraigment and conuiction, that her Maiestie might thereupon haue bene mooued to extend her mercie towardes them. The said Marsden and Anderton being accordingly examined by two principall persons thereunto appointed by her Ma<g ref="char:EOLhyphen"/>iesties said Priuie Councill, and put in remembrance of their former shew of duetie made before the Iustices of Assyse, and aduised to confirme the hope conceiued of their reformation in matters of their alleageance to her Maiestie, to the ende they might thereby mooue her Maiestie to shew mercie vnto them: Whereupon first the said Anderton, being required to explaine his true meaning in his protestation of her Maiesties right to the Crowne, and of his alleageance, and particu<g ref="char:EOLhyphen"/>larly whether he did acknowledge her Maiestie to be lawfull Queene, notwithstanding any sentence which the Pope ei<g ref="char:EOLhyphen"/>ther had giuen, or could giue against her: and whether he meant that it was his duetie, and the dueties of all her Maie<g ref="char:EOLhyphen"/>sties Subiects, to withstand the Pope, not onely if his inuasion were for temporall respects, as to make conquest of the Realme, but also if he would attempt such an inuasion by force to reduce the Realme to his obedience by colour of Religi<g ref="char:EOLhyphen"/>on: he answered, that they be questions where with he doth not deale, and required to bee respited for his answere, vntill such cases should happen, adding by way of abusion, that in the meane time hee may possibly be a Protestant, and so then become of other opinion then he is now of.</p>
+            <p>William Marsden to the same questions before propounded to Anderton, answered, <hi>That he acknowledged her Maiestie to be lawfull Queene of this Realme, and of other her Dominions: and that he tooke himselfe bound to obey her Maiestie, so far as his o<g ref="char:EOLhyphen"/>bedience impeached not his duetie to God and to the Church, (meaning the Church of Rome) requiring that he might not bee asked his opinion any further, vntill such case of sentence giuen by the Pope should happen, and further saith, that in case the Pope would send any forces into the Realme, to reduce the same to the Catholique Religion, (meaning Popery) he would then doe the duetie of a Priest, that is, hee would pray, that right might take place.</hi>
+            </p>
+            <p>And whereas they had both promised before the Iustices of Assise, that they would not meddle in perswading of any per<g ref="char:EOLhyphen"/>son in matter of Religion, but onely keepe their owne conscience to themselues: they now in this examination, denie that euer they promised not to deale with her Maiesties Subiects, to perswade them in matter of Religion: Anderton saying, <hi>That he taketh such as be out of the vnitie of the Church of Rome, to stand in state of damnation, and that therefore hee is bound in conscience to do what he can to reclaime them.</hi> And Marsden sayth, <hi>He may not promise not to deale with any of her Maiesties sub<g ref="char:EOLhyphen"/>iects in matters of Religion: for that he comming into the Realme to perswade the Catholique Religion, (meaning Poperie) hee can not binde himselfe not to do that duetie.</hi>
+            </p>
+            <p>Hereby may appeare to all her Maiesties louing and true hearted Subiects, the traiterous purpose of these two Semi<g ref="char:EOLhyphen"/>narie Priests, being borne Subiects of the Realme, who though in generall termes and speeches they seemed and made shew to the Iustices of Assise, of true and duetifull alleageance to the Queenes Maiestie their naturall Soueraigne: yet when endeuoure is vsed to vncouer their masked and fained protestations, they can not hide their malice and treasonable intentions euen to their owne confusions: which appearing thus manifestly to the Queenes most excellent Maiestie, ha<g ref="char:EOLhyphen"/>uing subscribed these former answeres with their owne hands, whereas shee was much inclined vpon the report of the said Iustices to afford them grace and pardon, if they wold haue persisted in their former protestations, finding them now vnworthy thereof, hath left them to the punishment appointed by the Law to be inflicted vpon them for their iust offence.</p>
+            <trailer>¶ <hi>God saue the Queene.</hi>
+            </trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>¶ Imprinted at London by Cristopher Barker, Printer to the Queenes most excellent Maiestie.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
